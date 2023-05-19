@@ -1,0 +1,7 @@
+DemoTest.class
+pages\OrderPage.class
+definitions\OrderStepDefs.class
+pages\Homepage.class
+definitions\CartManagerStepDefs.class
+pages\CartPage.class
+definitions\SearchStepDefs.class
